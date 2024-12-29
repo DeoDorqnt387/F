@@ -1,0 +1,62 @@
+
+ARCADE FİSH
+Well, since I'm a fan of old-school games, why not make a classic arcade game but with fish as the characters?
+
+You have four characters to choose from: A "fish" that can shoot water bombs; a "carp" that can use his strength to break obstacles; a shark who can eat the other characters, and a eel who is the fastest character with weak attacks.
+
+You can design levels like: "going for food", "escaping from a net" or even fighting the final boss, a fisherman.
+
+
+FISH CHESS
+Core Concept
+An aquatic twist on chess where living fish pieces swim around in a 3D aquarium-board, adding dynamic movement and special abilities to traditional chess strategy.
+Unique Elements
+
+    Living Board: Chessboard is a sectioned aquarium with different depths and coral decorations
+    Swimming Pieces:
+
+    King: Majestic Lionfish
+    Queen: Graceful Angelfish
+    Bishop: Quick Marlins
+    Knight: Seahorses
+    Rook: Sturdy Groupers
+    Pawns: Small Clownfish
+
+
+
+Special Mechanics
+
+Power-ups:
+
+    Water Bomb: Creates currents that can push pieces
+    Poison Cloud: Temporarily weakens enemy pieces
+    Feeding Time: Attracts pieces to certain squares
+    Coral Shield: Temporary protection
+
+
+Environmental Effects:
+
+    Random currents affecting movement
+    Bubble streams creating temporary barriers
+    Changing water temperatures affecting piece speed
+
+
+
+Visual Style
+
+    Beautiful underwater chess environment
+    Dynamic lighting and water effects
+    Particle effects for special abilities
+    Fish animations showing personality
+
+Reverse fish tank inc
+ - İlk adada çalıştığımız yer sağımızda tüten bacalar olacak
+ - ikinci ksıım insanları avlamaya çıktığımız yer(?)
+ - üçüncü kısım ise geri dönüp insanları sağdaki tüten bacaların içinde sokmak ve müşterilerden gelen karı izlemek
+
+
+Runner oyunu:
+ - Balık Dümdüz olduğu yerde yüzecek (Akvaryumdan kaçmak için)
+ - biz mausumuz ile engeller geldikçe engelleri balığın önünde çekmeye çalışacağız
+ - Bazen balık yorulacak ve ona yem vermemiz gerekecek.
+ - En yüksek skor vesayre

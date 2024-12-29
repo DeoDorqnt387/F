@@ -1,0 +1,10 @@
+Fish Escape:
+ - ~~Balık Dümdüz olduğu yerde yüzecek (Akvaryumdan kaçmak için)~~
+ - ~~biz mausumuz ile engeller geldikçe engelleri balığın önünde çekmeye çalışacağız~~
+ - ~~Bazen balık yorulacak ve ona yem vermemiz gerekecek.~~
+
+OBstacles:
+ - balıkçı ipi (hız 60 ağırlık 3)
+ - bize karşı yüzen balıklar (hız 30, ağırlık 5)
+ - yem (hız 25 ağırlık 7)
+ - akıntı (hız 65 ağırlık 2)

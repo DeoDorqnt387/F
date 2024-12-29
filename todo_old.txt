@@ -1,0 +1,25 @@
+Game Name:
+    - Reverse Fish
+
+
+Characters and their names:
+    - King: Majestic Lionfish (Şah)
+    - Queen: Graceful Angelfish (Vezir) 
+    - Bishop: Quick Marlins (at)
+    - Knight: Seahorses (Fil)
+    - Rook: Sturdy Groupers(Piyon)
+    - Pawns: Small Clownfish(MC, kale)
+
+Characters hp:
+    - King: 150
+    - Queen: 100
+    - Bishop: 80
+    - Knight: 75
+    - Rook: 60
+    - Pawns: 100 + w/ Power ups can be 200
+
+Power-ups:
+    Water Bomb: Creates currents that can push pieces
+    Poison Cloud: Temporarily weakens enemy pieces
+    Feeding Time: Attracts pieces to certain squares
+    Coral Shield: Temporary protection
